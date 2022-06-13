@@ -22,4 +22,8 @@
 
 
 ![Raspberry_Pi-Logo wine](https://user-images.githubusercontent.com/92098387/173346395-926252c0-0df5-47a2-aaab-9fb960440508.png)
+![index](https://user-images.githubusercontent.com/92098387/173346656-48beb043-ac5e-4ab3-9d75-3ed165ebdacb.png)
+![easyeda-thumbnail](https://user-images.githubusercontent.com/92098387/173346666-0e524953-e802-4b11-aefa-5d3e868cba7e.png)
+
+
 
