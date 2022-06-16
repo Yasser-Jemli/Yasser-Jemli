@@ -25,16 +25,7 @@
 
 
 
-
-
-
-
 ![index](https://user-images.githubusercontent.com/92098387/173346656-48beb043-ac5e-4ab3-9d75-3ed165ebdacb.png)
-
-
-
-
-
 
 
 
