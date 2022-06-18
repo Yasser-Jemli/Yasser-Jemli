@@ -24,11 +24,7 @@
 <pre>
 
 <p align="center">
-  <img width="600" height="400" src="https://user-images.githubusercontent.com/92098387/174299458-44180e43-8546-492b-b395-fdedae9d1f44.png">
+  <img width="600" height="400" src="https://user-images.githubusercontent.com/92098387/173346395-926252c0-0df5-47a2-aaab-9fb960440508.png">
 </p>
 
 </pre>
-![Raspberry_Pi-Logo wine](https://user-images.githubusercontent.com/92098387/173346395-926252c0-0df5-47a2-aaab-9fb960440508.png)
-
-
-![112](https://umser-images.githubusercontent.com/92098387/174306035-eaec5024-0f99-450b-a9cf-344fc13b8890.png)
