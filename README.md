@@ -57,5 +57,5 @@
 </pre>
 
 
-![img_4286a-220x100](https://user-images.githubusercontent.com/92098387/174442689-9cac74a8-2998-42d2-ab97-8e2aa8b3a15b.png)[1]
+(https://user-images.githubusercontent.com/92098387/174442689-9cac74a8-2998-42d2-ab97-8e2aa8b3a15b.png)[1]
 [1]: https://www.labcenter.com/
