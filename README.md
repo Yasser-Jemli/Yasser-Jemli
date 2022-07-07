@@ -2,13 +2,7 @@
 <h3 align="center">Embedded System Developper & PCB designer from Tunisia</h3>
 
 
-<pre>
 
-<p align="center">
-  <img width="800" height="1200" src="https://user-images.githubusercontent.com/92098387/174489369-0f56baa6-044a-4163-9423-f2118478a481.png">
-</p>
-
-</pre>
 
 
 - 🔭 I’m currently working on **Advanced line Follower project**
