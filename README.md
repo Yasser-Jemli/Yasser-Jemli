@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yasser Jemli</h1>
-<h3 align="center">Embedded System Developper & PCB designer from Tunisia</h3>
+<h3 align="center">Embedded System Engineer & PCB designer from Tunisia</h3>
 
 
 
 
 
-- 🔭 I’m currently working on **Advanced line Follower project**
+- 🔭 I’m currently working on **AOSP & AAOS **
 
-- 🌱 I’m currently learning **Embedded Android , ROS , PCB Design**
+- 🌱 I’m currently learning **Embedded Android ,PCB Design , Embedded Linux **
 
 - 👯 I’m looking to collaborate on **Outdoor ROBOT**
 
-- 🤝 I’m looking for help with **ROS - Advanced PCB Topics**
+- 🤝 I’m looking for help with **ROS & Advanced PCB Topics**
 
 - 📫 How to reach me **yasserjamli37@gmail.com**
 
