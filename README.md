@@ -19,7 +19,7 @@
 
 Hello there! 👋 I'm Yasser Jemli, an Embedded System Engineer and PCB Designer from Tunisia with a passion for pushing the boundaries of technology. Here's a glimpse into my current journey:
 
-- 🔭 **Current Work:** Delving deep into the realms of AOSP (Android Open Source Project) and AAOS (Advanced Android Operating System). Crafting innovative solutions to enhance user experiences.
+- 🔭 **Current Work:** Delving deep into the realms of AOSP (Android Open Source Project) and AAOS (Automotive Android Operating System). Crafting innovative solutions to enhance user experiences.
 
 - 🌱 **Continuous Learning:** Always hungry for knowledge, I'm currently immersing myself in the fascinating worlds of Embedded Android, PCB Design, and Embedded Linux. Embracing the challenges that come with staying at the forefront of technology.
 
