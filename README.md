@@ -17,13 +17,20 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **AOSP & AAOS**
-- 🌱 I’m currently learning **Embedded Android, PCB Design, Embedded Linux**
-- 👯 I’m looking to collaborate on **Outdoor ROBOT**
-- 🤝 I’m looking for help with **ROS & Advanced PCB Topics**
-- 📫 How to reach me: **yasserjamli37@gmail.com**
+Hello there! 👋 I'm Yasser Jemli, an Embedded System Engineer and PCB Designer from Tunisia with a passion for pushing the boundaries of technology. Here's a glimpse into my current journey:
 
----
+- 🔭 **Current Work:** Delving deep into the realms of AOSP (Android Open Source Project) and AAOS (Advanced Android Operating System). Crafting innovative solutions to enhance user experiences.
+
+- 🌱 **Continuous Learning:** Always hungry for knowledge, I'm currently immersing myself in the fascinating worlds of Embedded Android, PCB Design, and Embedded Linux. Embracing the challenges that come with staying at the forefront of technology.
+
+- 👯 **Collaboration:** Eager to join forces with like-minded enthusiasts! I'm actively seeking collaborations on projects involving Outdoor Robotics. Let's build something amazing together!
+
+- 🤝 **Seeking Expertise:** In my quest for knowledge, I'm on the lookout for guidance in ROS (Robot Operating System) and delving into Advanced PCB Topics. If you have insights to share, I'd love to connect!
+
+- 📫 **Get in Touch:** Whether you have a project proposal, tech insights, or just want to chat tech over a virtual coffee, feel free to drop me an email at [yasserjamli37@gmail.com](mailto:yasserjamli37@gmail.com). I'm always open to new connections and exciting opportunities!
+
+Let's innovate, collaborate, and explore the boundless possibilities of technology together! 🚀
+
 
 ### Connect with Me
 
