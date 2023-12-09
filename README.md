@@ -27,7 +27,7 @@
 
 ### Connect with Me
 
-- LinkedIn: [Yasser Jamli](https://linkedin.com/in/yasser-jamli-718582206/)
+- LinkedIn: [Yasser Jemli](https://www.linkedin.com/in/yasser-jemli-718582206/)
 - Facebook: [Yasser Jemli](https://fb.com/yasser.jemli.14/)
 - Email: [yasserjamli37@gmail.com](mailto:yasserjamli37@gmail.com)
 
