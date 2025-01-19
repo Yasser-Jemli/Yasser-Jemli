@@ -1,3 +1,5 @@
+![plot](./images/header_gif.gif)
+
 <h1 align="center">Hi there! 👋 I'm Yasser Jemli</h1>
 <h3 align="center">Embedded System Engineer & PCB Designer from Tunisia</h3>
 
